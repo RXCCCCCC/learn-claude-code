@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "file-server": {
+      "command": "python3",
+      "args": ["/full/path/to/my-mcp-server/file_server.py"]
+    },
+    "weather-server": {
+      "command": "python3", 
+      "args": ["/full/path/to/my-mcp-server/weather_server.py"]
+    }
+  }
+}
