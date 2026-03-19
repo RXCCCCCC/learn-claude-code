@@ -1,0 +1,1 @@
+{"type": "broadcast", "from": "lead", "content": "Team, we have a new set of tasks available in .tasks/ directory. These tasks have dependencies that must be respected in order. Please check the task list and try to claim a task. Remember: you can only claim tasks that are not blocked by incomplete dependencies.", "timestamp": 1773915105.1554859}
