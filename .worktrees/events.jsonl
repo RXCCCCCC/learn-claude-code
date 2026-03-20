@@ -1,0 +1,8 @@
+{"event": "worktree.create.before", "ts": 1773928022.89643, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}}
+{"event": "worktree.create.after", "ts": 1773928023.3403866, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "path": "E:\\practice\\ai\\project\\agent\\learn-claude-code\\.worktrees\\auth-refactor", "branch": "wt/auth-refactor", "status": "active"}}
+{"event": "worktree.create.before", "ts": 1773928023.3413877, "task": {"id": 2}, "worktree": {"name": "ui-login", "base_ref": "HEAD"}}
+{"event": "worktree.create.after", "ts": 1773928023.818459, "task": {"id": 2}, "worktree": {"name": "ui-login", "path": "E:\\practice\\ai\\project\\agent\\learn-claude-code\\.worktrees\\ui-login", "branch": "wt/ui-login", "status": "active"}}
+{"event": "worktree.keep", "ts": 1773928151.8567169, "task": {"id": 2}, "worktree": {"name": "ui-login", "path": "E:\\practice\\ai\\project\\agent\\learn-claude-code\\.worktrees\\ui-login", "status": "kept"}}
+{"event": "worktree.remove.before", "ts": 1773928436.3161972, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "path": "E:\\practice\\ai\\project\\agent\\learn-claude-code\\.worktrees\\auth-refactor"}}
+{"event": "task.completed", "ts": 1773928436.5623798, "task": {"id": 1, "subject": "Set up project structure", "status": "completed"}, "worktree": {"name": "auth-refactor"}}
+{"event": "worktree.remove.after", "ts": 1773928436.5638986, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "path": "E:\\practice\\ai\\project\\agent\\learn-claude-code\\.worktrees\\auth-refactor", "status": "removed"}}
